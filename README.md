@@ -1,3 +1,28 @@
+![Screenshot_2024-05-31-05-42-21-665_com styling](https://github.com/26081yogesh/Learning_RN_Marvel_DC_UI/assets/108536566/172beb20-259d-43b1-8fb7-fa256420c43c)
+
+
+
+
+![Screenshot_2024-05-31-05-42-33-156_com styling](https://github.com/26081yogesh/Learning_RN_Marvel_DC_UI/assets/108536566/d810c012-3d6e-42ad-aacb-0f817c847cac)
+
+
+
+
+![Screenshot_2024-05-31-05-42-27-496_com styling](https://github.com/26081yogesh/Learning_RN_Marvel_DC_UI/assets/108536566/38c8e22d-84a0-4128-9dec-f967236fa90d)
+
+
+
+
+![Screenshot_2024-05-31-05-42-37-291_com styling](https://github.com/26081yogesh/Learning_RN_Marvel_DC_UI/assets/108536566/0d6df238-ce7d-461a-8941-e184dfed81ae)
+
+
+
+
+![Screenshot_2024-05-31-05-42-39-943_com styling](https://github.com/26081yogesh/Learning_RN_Marvel_DC_UI/assets/108536566/594571ef-82c1-4180-9de6-58ff54ac09fc)
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
